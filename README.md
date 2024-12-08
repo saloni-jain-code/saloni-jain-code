@@ -3,7 +3,7 @@ I'm a junior at Columbia University studying Computer Science and Applied Math. 
 
 ### 🎯 Featured Project: Topic Modeling for The Clorox Company
 Check out my work on this topic modeling project for The Clorox Company! My team and I developed a several different topic modeling modules to analyze 670K+ consumer reviews, helping the company extract valuable insights to improve their products.
-* **Tools**: Python, Top2Vec, LSA, LDA2Vec, BERTopic
+* **Tools**: Python, Top2Vec, LSA, LDA2Vec, BERTopic, LLama3
 * **What We Did**: Tested Top2Vec, LSA, LDA2Vec, and BERTopic topic modeling methods. Preprocessed and vectorized text data, converted text to embeddings, did dimensionality reduction, clustered the text embeddings, and extracted top terns from each of the topic clusters. Top terms were passed through the Llama3 LLM to generate coherent topic labels. Evaluated topic labels thorugh similarity score between topic label and review and through qualitative evaluation.   
 * **Results**: After testing all four methods, we found that LSA worked the best, and provided insights that helped guide data-driven improvements in product development. We developed modular, reusable code that allowed users to build, train, and evaluate a model within 2 lines of code, and also created a command line tool to make our code easy to use for future data engineers at Clorox.
 
