@@ -1,5 +1,5 @@
 ## Hi, I'm Saloni 👋
-I'm a junior at Columbia University studying Computer Science and Applied Math. I'm passionate about solving real-world problems with **machine learning** and **artificial intelligence**. I'm also a strong self-learner, leader, and collaborator eager to apply my technical skills to build impactful solutions. Connect with me on [Linkedin](https://www.linkedin.com/in/saloni-jain-columbia/) or contact me at sj3230@columbia.edu!
+I'm a senior at Columbia University studying Computer Science and Applied Math. I'm passionate about solving real-world problems with **machine learning** and **artificial intelligence**. I'm also a strong self-learner, leader, and collaborator eager to apply my technical skills to build impactful solutions. Connect with me on [Linkedin](https://www.linkedin.com/in/saloni-jain-columbia/) or contact me at sj3230@columbia.edu!
 
 ### 🎯 Featured Project: Topic Modeling for The Clorox Company
 Check out my work on this topic modeling project for The Clorox Company! My team and I developed a several different topic modeling modules to analyze 670K+ consumer reviews, helping the company extract valuable insights to improve their products.
